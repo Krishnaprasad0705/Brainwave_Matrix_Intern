@@ -1,4 +1,5 @@
 🚗 BMW Sales Dashboard (India – 2024–2025)
+
 A dynamic sales dashboard analyzing BMW’s revenue, profit, and sales performance in the Indian market from 2024 to 2025. This Power BI report presents key insights into monthly trends, top-performing models, and regional performance breakdowns.
 
 Built using Power BI, this interactive dashboard empowers stakeholders with data-driven insights for strategic decision-making.
